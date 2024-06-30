@@ -1,5 +1,4 @@
-numpy==1.26.4
-pandas==2.2.2
 streamlit
-Scikit-learn 
-pip==24.0
+scikit-learn
+numpy
+pandas
