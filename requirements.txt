@@ -1,5 +1,5 @@
+python==3.12.4.final.0
 streamlit
 scikit-learn
 numpy
 pandas
-pickle
